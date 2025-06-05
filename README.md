@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/mhZkb3X.png" alt="DevOps Banner" />
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220906182153/DevOpsEngineerSalary.gif" alt="DevOps Banner" />
 </p>
 
 <h1 align="center">Hi there, I'm a DevOps Engineer 🚀</h1>
