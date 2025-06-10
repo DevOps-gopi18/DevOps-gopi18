@@ -34,7 +34,7 @@
 ![CloudFormation](https://img.shields.io/badge/-CloudFormation-FF4F8B?logo=amazon-aws&logoColor=white&style=for-the-badge)
 
 ##### AWS Services:
-`EC2`, `S3`, `IAM`, `VPC`, `RDS`, `EKS`, `Auto Scaling`, `Route53`, `CDN`, `EBS`, `EFS`, `Lambda`, `API Gateway`
+`EC2`, `S3`, `IAM`, `VPC`, `RDS`, `EKS`, `Auto Scaling`, `Route53`, `CDN`, `EBS`, `EFS`, `Lambda`, `API Gateway`, `CloudFront`
 
 #### 📊 Monitoring & Analysis
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge)
